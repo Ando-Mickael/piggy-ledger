@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: false;
+}
+
+@plugin "daisyui/theme" {
+  name: "expenses";
+  default: true;
+  color-scheme: light;
+
+  --color-base-100: #ffffff;
+  --color-base-200: #f5f5f4;
+  --color-base-300: #e5e5e5;
+  --color-base-content: #111111;
+  --color-primary: #15803d;
+  --color-primary-content: #ffffff;
+  --color-neutral: #111111;
+  --color-neutral-content: #ffffff;
+
+  --radius-selector: 0.625rem;
+  --radius-field: 0.875rem;
+  --radius-box: 1rem;
+}

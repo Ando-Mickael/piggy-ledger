@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">piggy-ledger</string>
+    <string name="title_activity_main">piggy-ledger</string>
+    <string name="package_name">mg.ando.piggy_ledger</string>
+    <string name="custom_url_scheme">mg.ando.piggy_ledger</string>
+</resources>
